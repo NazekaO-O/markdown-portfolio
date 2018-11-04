@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Naruto Photo](https://i.pinimg.com/originals/8f/05/8b/8f058b54ef283368adb17d63fd9aaf88.jpg)
